@@ -1,4 +1,3 @@
-
 # JatahKu — Capstone Project Web UI/UX Developer
 
 JatahKu adalah aplikasi web manajemen keuangan pribadi yang membantu pengguna mengatur jatah bulanan, mengontrol batas (limit) pengeluaran, dan memantau riwayat transaksi secara real-time.
